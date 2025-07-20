@@ -1,3 +1,5 @@
+I have not forgotten for modpack, I plan to release mod updates and fix the error where I forgot to update the version of fabric loader
+
 # Welcome to our mod pack!
 - In this modpack you have a unique opportunity to become a powerful mage, skillful engineer or even both! Explore an incredible world full of new opportunities and adventures.
   
